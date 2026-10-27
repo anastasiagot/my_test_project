@@ -3,3 +3,6 @@ This is a project for learning Git automation.
 
 ## Login Feature
 This branch adds user authentication functionality.
+
+## Изменения в ветке feature/login
+Эта строка добавлена в feature/login
